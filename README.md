@@ -29,8 +29,9 @@ O pipeline consolida dados de vendas a partir de arquivos CSV, aplica regras de 
 
 ## 🗂️ Estrutura Resumida do Projeto
 
-
-
+<p align="center">
+  <img src="images/estrutura_projeto.png" alt="Estrutura do projeto" width="500">
+</p>
 
 
 
